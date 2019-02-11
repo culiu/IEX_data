@@ -1,0 +1,5 @@
+65 engineering,june
+72 scie,engineering
+63 june,directorate
+75 economic,div
+4 68.75

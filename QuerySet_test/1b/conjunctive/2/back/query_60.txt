@@ -1,0 +1,8 @@
+60 ab,sta
+59 sta,ba
+61 rm,ga
+59 ho,rm
+64 mo,du
+58 ga,ab
+64 ba,mo
+7 60.7143

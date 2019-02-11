@@ -1,0 +1,12 @@
+90 la,ea
+89 mi,si
+91 el,la
+87 ia,mi
+91 si,el
+84 ions,tu
+93 ea,ro
+84 tu,ia
+96 nc,ct
+81 su,ions
+96 ct,ion
+11 89.2727

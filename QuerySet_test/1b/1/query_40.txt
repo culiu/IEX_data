@@ -1,0 +1,7 @@
+39 social
+41 scie
+38 div
+41 engineering
+38 economic
+42 june
+6 39.8333

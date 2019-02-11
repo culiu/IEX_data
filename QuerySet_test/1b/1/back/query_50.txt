@@ -1,0 +1,11 @@
+50 cts
+50 met
+49 gen
+52 mat
+49 director
+52 tec
+48 geo
+55 tan
+48 age
+55 eng
+10 50.8

@@ -1,0 +1,16 @@
+establish[21],apa[21],conjuctive size = 2
+establish[21],mech[27],conjuctive size = 4
+ability[21],resp[21],conjuctive size = 4
+resp[21],action[28],conjuctive size = 4
+methods[21],human[28],conjuctive size = 4
+hard[22],lab[28],conjuctive size = 4
+amp[22],eor[29],conjuctive size = 4
+sch[22],plan[23],conjuctive size = 3
+sch[22],time[30],conjuctive size = 3
+organ[23],continuing[31],conjuctive size = 4
+region[24],test[24],conjuctive size = 4
+behavior[25],application[25],conjuctive size = 4
+unit[26],september[26],conjuctive size = 4
+september[26],analysis[26],conjuctive size = 2
+stri[31],sciences[31],conjuctive size = 3
+

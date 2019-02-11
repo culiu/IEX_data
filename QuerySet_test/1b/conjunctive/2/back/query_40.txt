@@ -1,0 +1,17 @@
+40 comp,inte
+40 ph,ring
+39 social,st
+41 scien,rec
+39 fl,er
+41 cs,develop
+39 nv,pre
+42 pi,comp
+38 phy,ic
+42 engine,engineer
+38 div,cs
+43 ring,pt
+37 base,ne
+44 rate,scie
+37 model,ct
+44 pre,pi
+16 40.25

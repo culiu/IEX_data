@@ -1,0 +1,9 @@
+68 va,res
+71 res,cal
+67 ir,va
+71 cal,il
+67 du,ir
+74 il,men
+64 ba,mo
+76 men,su
+8 69.75

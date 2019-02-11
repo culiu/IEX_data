@@ -1,0 +1,9 @@
+49 science,ph
+53 scie,ding
+47 ls,cat
+54 sci,ut
+47 pt,ls
+54 ding,sci
+46 cat,scien
+54 ms,rate
+8 50.5
